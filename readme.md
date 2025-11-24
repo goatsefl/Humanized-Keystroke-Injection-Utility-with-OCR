@@ -118,12 +118,12 @@ pip install -r requirements.txt
 
 1.  Navigate to the project directory.
 
-BEFORE RUNNING : ALWAYS try running ```.\venv\Scripts\activate``` this before ```python app.py```
-2.  Run the application:
+2.  **IMPORTANT**BEFORE RUNNING : ALWAYS try running `.\venv\Scripts\activate` this before `python app.py`.
+3.  Run the application:
     ```bash
     python app.py
     ```
-3.  **Usage:**
+4.  **Usage:**
     - Paste text into the main box OR click "Load Text from Image".
     - Adjust the sliders (WPM, Accuracy, Variation) to your preference.
     - Click **Start**.
